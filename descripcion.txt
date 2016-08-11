@@ -1,0 +1,15 @@
+Este es un proyecto desarrollado en octave.
+
+Archivos:
+1.-
+2.-
+3.-
+4.-
+
+Método Numérico
+1.-
+2.-
+3.-
+4.-
+
+Desarrollado enteramente por Carlo Gilmar.x
