@@ -176,7 +176,7 @@ disp(bb);
 disp("es:");
 disp(resultado);
 
-s=input("teclea para salir");
+s=input("teclea para salir------------------");
 
 
 
