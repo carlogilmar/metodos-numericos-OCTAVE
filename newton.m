@@ -120,16 +120,6 @@ disp(u);%nuevo valor de referencia, tamanio del polinonio
 
 %hacer el polinomio enserio.................................................
 
-
-for v=1:u
-	
-	if v==1
-		%para el elemento 1
-		poli(v)=elem(v);
-	elseif v==2
-		%para el elemento 2
-		poli(v)=elem(v)*refk;
-	else	
 		%para el elemento tercero en adelante
 
 		%factorial, denominador ok............................
